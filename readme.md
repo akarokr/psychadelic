@@ -16,10 +16,10 @@ creates fancy glitch art from your pictures in Python. Who wouldn't like this sh
 **Some examples**
 Original image:
 
-![image](example/Blue-Rose-0.jpg  =250x)
+![image](example/Blue-Rose-0.jpg)
 
 Glitched versions:
 
-![image](example/Blue-Rose-0_glitched.jpg  =250x)
+![image](example/Blue-Rose-0_glitched.jpg)
 
-![image](example/Blue-Rose-0_desaturated.jpg  =250x)
+![image](example/Blue-Rose-0_desaturated.jpg)
